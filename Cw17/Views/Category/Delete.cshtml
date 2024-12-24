@@ -1,0 +1,11 @@
+﻿@model Cw17.Models.Entities.Category
+
+<h2>Delete Category</h2>
+
+<p>Are you sure you want to delete the category: <strong>@Model.Name</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("List")" class="btn btn-secondary">Cancel</a>
+</form>

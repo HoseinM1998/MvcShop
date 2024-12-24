@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmosl\\source\\repos\\Cw17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\shared\\customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\shared\\customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\models\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|c:\\users\\hmosl\\source\\repos\\cw17\\cw17\\models\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AFD49-8A7F-4910-AB24-2B208A47161E}|Cw17\\Cw17.csproj|solutionrelative:cw17\\models\\contract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:03:02.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:02:55.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:02:51.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:02:42.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:02:22.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:02:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T23:01:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T22:47:16.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Shared\\CustomLayout.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Shared\\CustomLayout.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Shared\\CustomLayout.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Shared\\CustomLayout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T22:41:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Cw17\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-21T22:39:34.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T21:51:22.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T21:51:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T21:49:14.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Cw17\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Cw17\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:39:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Cw17\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Cw17\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:39:18.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Models\\Contract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Cw17\\Models\\Contract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Models\\Contract\\IUserService.cs",
+              "RelativeToolTip": "Cw17\\Models\\Contract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:21:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Models\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Cw17\\Models\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Models\\Service\\UserService.cs",
+              "RelativeToolTip": "Cw17\\Models\\Service\\UserService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:21:16.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Program.cs",
+              "RelativeDocumentMoniker": "Cw17\\Program.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Program.cs",
+              "RelativeToolTip": "Cw17\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:14:58.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\User\\List.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\User\\List.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\User\\List.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\User\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T21:02:10.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Cw17\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Cw17\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:11:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Category\\List.cshtml",
+              "RelativeDocumentMoniker": "Cw17\\Views\\Category\\List.cshtml",
+              "ToolTip": "C:\\Users\\hmosl\\source\\repos\\Cw17\\Cw17\\Views\\Category\\List.cshtml",
+              "RelativeToolTip": "Cw17\\Views\\Category\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T19:10:11.107Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

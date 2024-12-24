@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "CustomLayout";
+}
+
+
+@model List<Cw17.Models.Entities.User>
+
+<h2>Welcome, @ViewData["FullName"]!</h2>
+
+
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Full Name</th>
+        <th>User Name</th>
+        <th>Email</th>
+        <th>Option</th>
+
+
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model.Where(u => u.UserName == User.Identity.Name))
+    {
+        <tr>
+            <td>@user.FullName</td>
+            <td>@user.UserName</td>
+            <td>@user.Email</td>
+            <td>
+                <a href="@Url.Action("Update", new { id = user.Id })" class="btn btn-primary">Edit</a>
+                <a href="@Url.Action("Delete", new { id = user.Id })" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<style>
+    .actions {
+        display: flex;
+        gap: 10px;
+        margin-top: 20px;
+    }
+    .btn-primary, .btn-success, .btn-danger, .btn-secondary {
+        margin: 5px;
+    }
+</style>

@@ -1,0 +1,31 @@
+﻿@model List<Cw17.Models.Entities.Category>
+@{
+    Layout = "CustomLayout";
+}
+
+<h2>Categories List</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var category in Model)
+    {
+        <tr>
+            <td>@category.Id</td>
+           <td>@category.Name</td>
+
+            <td>
+                <a href="@Url.Action("Update", new { id = category.Id })" class="btn btn-primary">Edit</a>
+                <a href="@Url.Action("Delete", new { id = category.Id })" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="btn btn-success">Create New Category</a>
